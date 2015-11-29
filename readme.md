@@ -27,11 +27,11 @@ Je profite du peu de temps libre que me laisse mon Dut pour approfondir mes conn
 Je suis en ce moment un tutoriel sur la **programmation orientée objets sur PHP**, afin de pouvoir apprendre **Symfony2** par la suite. Bref, plus motivée que jamais! 
 
 Voici une liste des langages appris en autoformation : 
-[x] HTML5/CSS3,
-[x] PHP/MySQL,
-[x] Ruby on Rails,
-[x] GIT,
-[ ] Symfony 2
+- [x] HTML5/CSS3,
+- [x] PHP/MySQL,
+- [x] Ruby on Rails,
+- [x] GIT,
+- [ ] Symfony 2
 
 
 N'hésitez pas à me contacter pour plus d'informations. Je suis disponible pour tout entretien. 
