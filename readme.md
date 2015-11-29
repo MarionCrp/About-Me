@@ -13,9 +13,9 @@ Le but étant de poursuivre notre collaboration durant mon année en **contrat de 
 
 ## Mes compétences ##
 
+#### Apprises à l'IUT ####
 
-
-###Voici la liste des langages que j'aurai acquis à l'IUT avant de débuter mon stage : ###
+Voici la liste des langages que j'aurai acquis à l'IUT avant de débuter mon stage :
 
 *  HTML5/CSS3,  
 *  PHP/MySQL,
@@ -26,7 +26,7 @@ Le but étant de poursuivre notre collaboration durant mon année en **contrat de 
 
 On ajoute à cela de la **gestion de projet**, et la conception d'un site de rencontre multiculturel dans le cadre de mon *projet tuteuré* (qui viendra garnir petit à petit mon compte GitHub!). 
 
-### Capacité d'autoformation ###
+#### Capacité d'autoformation ####
 
 Je profite du peu de temps libre que me laisse mon Dut pour approfondir mes connaissances par l'**autoformation**.
 Je suis en ce moment un tutoriel sur la **programmation orientée objets sur PHP**, afin de pouvoir apprendre **Symfony2** par la suite. Bref, plus motivée que jamais! 
