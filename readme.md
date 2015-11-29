@@ -17,12 +17,12 @@ Le but étant de poursuivre notre collaboration durant mon année en **contrat de 
 
 Voici la liste des langages que j'aurai acquis à l'IUT avant de débuter mon stage :
 
-*  HTML5/CSS3,  
-*  PHP/MySQL,
-*  Modélisation de Bases de Données, UML, 
-*  GIT, Versionning de fichiers,
-*  C, JAVA, Android,
-*  Algorithmie, Réseaux
+* 	 HTML5/CSS3,  
+* 	 PHP/MySQL,
+* 	 Modélisation de Bases de Données, UML, 
+* 	 GIT, Versionning de fichiers,
+* 	 C, JAVA, Android,
+* 	 Algorithmie, Réseaux
 
 On ajoute à cela de la **gestion de projet**, et la conception d'un site de rencontre multiculturel dans le cadre de mon *projet tuteuré* (qui viendra garnir petit à petit mon compte GitHub!). 
 
@@ -33,10 +33,10 @@ Je suis en ce moment un tutoriel sur la **programmation orientée objets sur PHP*
 
 Voici la liste des langages appris pour l'instant en autoformation
 
-*  HTML5/CSS3,
-*  PHP/MySQL,
-*  Ruby on Rails,
-*  GIT
+* 	 HTML5/CSS3,
+* 	 PHP/MySQL,
+* 	 Ruby on Rails,
+* 	 GIT
 
 
 N'hésitez pas à me contacter pour plus d'informations. Je suis disponible pour tout entretien. 
