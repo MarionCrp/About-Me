@@ -21,8 +21,11 @@
 
    			    <li <?php if ($_GET['page'] == 'aboutme.php') {?> class="active" <?php } ?>
             ><a href="?page=aboutme.php">About Me</a></li>
-            
+
             <li><a href="https://github.com/MarionCrp">My GitHub</a></li>
+
+
+PLAPLAPLA
 
             <li <?php if ($_GET['page'] == 'contact.php') {?> class="active" <?php } ?>
             ><a href="?page=contact.php">Contacts</a></li>
