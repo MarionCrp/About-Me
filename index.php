@@ -16,16 +16,23 @@
         <h3 class="text-muted">Marion CRAIPEAU</h3>
         <nav>
           <ul class="nav nav-justified">
-            <li <?php if ($_GET['page'] == 'index.php') {?> class="active" <?php } ?>
-            ><a href="?page=index.php">Home</a></li>
 
-            <li <?php if ($_GET['page'] == 'aboutme.php') {?> class="active" <?php } ?>
-            ><a href="?page=aboutme.php">About Me</a></li>
-PLAPLAPAL
-            <li><a href="https://github.com/MarionCrp">My GitHub</a></li>
+              <li <?php if(isset($_GET['page']) and $_GET['page'] == 'index.php') {?> class="active" <?php } ?> >
+               <a href="?page=index.php">Home</a>
+              </li>
 
-            <li <?php if ($_GET['page'] == 'contact.php') {?> class="active" <?php } ?>
-            ><a href="?page=contact.php">Contacts</a></li>
+              <li <?php if (isset($_GET['page']) and $_GET['page'] == 'aboutme.php') {?> class="active" <?php } ?> >
+              <a href="?page=aboutme.php">My Skills</a>
+              </li>
+
+              <li>
+                <a href="https://github.com/MarionCrp">My GitHub</a>
+              </li>
+
+              <li <?php if (isset($_GET['page']) and $_GET['page'] == 'contact.php') {?> class="active" <?php } ?> >
+              <a href="?page=contact.php">Contacts</a>
+              </li>
+
           </ul>
         </nav>
       </div>
