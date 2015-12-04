@@ -15,11 +15,12 @@ Le but étant de poursuivre notre collaboration durant mon année en **contrat de 
 
 #### Apprises à l'IUT ####
 
-Voici la liste des langages que j'aurai acquis à l'IUT avant de débuter mon stage :
+Voici la liste des langages et compétences que j'aurai acquis à l'IUT avant de débuter mon stage :
 
 * 	 HTML5/CSS3,  
-* 	 PHP/MySQL,
-* 	 Modélisation de Bases de Données, UML, 
+* 	 PHP/MySQL/JS
+* 	 Modélisation de bases de données (sous Oracle) UML,
+*	 Business Intelligence
 * 	 GIT, Versionning de fichiers,
 * 	 C, JAVA, Android,
 * 	 Algorithmie, Réseaux
