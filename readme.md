@@ -4,7 +4,7 @@ Bienvenue sur mon profil GitHub, (qui est pour l'instant un peu vide car je suis
 
 ## A propos de moi ##
 
-Je m'appelle Marion. Après un Master de Japonais (orienté commerce), j'ai décidé d'ajouter de nouvelles compétences à mon profil. J'ai choisi le **développement web**, qui constitue une source infini d'apprentissage, pour pouvoir *créer de belles choses* ! 
+Je m'appelle Marion. Après un Master de Japonais (orienté commerce), j'ai décidé d'ajouter de nouvelles compétences à mon profil. J'ai choisi le **développement web**, qui constitue une source infinie d'apprentissage, pour pouvoir *créer de belles choses* ! 
 
 Je suis actuellement en **Année Spéciale de DUT Informatique** (DUT condensé sur une seule année!), car je souhaite l'année prochaine faire une **Licence Professionnelle** Systèmes Informatiques et Logiciels, Spécialité : Concepteur et Gestionnaire de Sites Internet pour pouvoir me spécialiser dans le milieu du web!
 
@@ -25,7 +25,7 @@ Voici la liste des langages et compétences que j'aurai acquis à l'IUT avant de d
 * 	 C, JAVA, Android,
 * 	 Algorithmie, Réseaux
 
-On ajoute à cela de la **gestion de projet**, et la conception d'un site de rencontre multiculturel dans le cadre de mon *projet tuteuré* (qui viendra garnir petit à petit mon compte GitHub!). 
+On ajoute à cela de la **gestion de projet**, et la conception d'un site de rencontres multiculturelles dans le cadre de mon *projet tuteuré* (qui viendra garnir petit à petit mon compte GitHub!). 
 
 #### Capacité d'autoformation ####
 
