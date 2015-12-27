@@ -30,7 +30,6 @@ On ajoute à cela de la **gestion de projet**, et la conception d'un site de renc
 #### Capacité d'autoformation ####
 
 Je profite du peu de temps libre que me laisse mon Dut pour approfondir mes connaissances par l'**autoformation**.
-Je suis en ce moment un tutoriel sur la **programmation orientée objets sur PHP**, afin de pouvoir apprendre **Symfony2** par la suite. Bref, plus motivée que jamais! 
 
 Voici la liste des langages appris pour l'instant en autoformation
 
