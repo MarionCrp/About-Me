@@ -9,7 +9,7 @@ Je m'appelle Marion. Après un Master de Japonais (orienté commerce), j'ai décidé
 Je suis actuellement en **Année Spéciale de DUT Informatique** (DUT condensé sur une seule année!), car je souhaite l'année prochaine faire une **Licence Professionnelle** Systèmes Informatiques et Logiciels, Spécialité : Concepteur et Gestionnaire de Sites Internet pour pouvoir me spécialiser dans le milieu du web!
 
 Je suis activement à la recherche d'une entreprise, sur Lyon, dans laquelle faire mon **stage** de fin d'études (10 semaines de stage minimum) à compter de **mi-juin 2016**.
-Le but étant de poursuivre notre collaboration durant mon année en **contrat de professionnalisation** en développement web (début **octobre 2016**). 
+Le but étant de poursuivre notre collaboration pour une année d'**alternance** en contrat de professionnalisation en développement web (début **octobre 2016**). 
 
 ## Mes compétences ##
 
