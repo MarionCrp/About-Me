@@ -1,45 +1,34 @@
 # Bienvenue #
 
-Bienvenue sur mon profil GitHub, (qui est pour l'instant un peu vide car je suis en pleine période d'autoformation!)
+Bienvenue sur mon profil GitHub,
 
 ## A propos de moi ##
 
-Je m'appelle Marion. Après un Master de Japonais (orienté commerce), j'ai décidé d'ajouter de nouvelles compétences à mon profil. J'ai choisi le **développement web**, qui constitue une source infinie d'apprentissage, pour pouvoir *créer de belles choses* ! 
+Je m'appelle Marion. AprÃ¨s un Master de Japonais (orientÃ© commerce), j'ai dÃ©cidÃ© d'ajouter de nouvelles compÃ©tences Ã  mon profil. J'ai choisi le **dÃ©veloppement web**, qui constitue une source infinie d'apprentissage, et de crÃ©ativitÃ©.
 
-Je suis actuellement en **Année Spéciale de DUT Informatique** (DUT condensé sur une seule année!), car je souhaite l'année prochaine faire une **Licence Professionnelle** Systèmes Informatiques et Logiciels, Spécialité : Concepteur et Gestionnaire de Sites Internet pour pouvoir me spécialiser dans le milieu du web!
+Suite Ã  une annÃ©e d'Ã©tude en informatique (DUT en annÃ©e spÃ©ciale, condensÃ©e sur un an), je souhaite orienter mes Ã©tudes dans le dÃ©veloppement web, et suis activement Ã  la recherche d'une **alternance** en contrat de professionnalisation pour la rentrÃ©e de septembre 2016 dans le cadre de la licence professionnelle SIMO Ã  l'IUT-2 de Grenoble, axÃ© web / et systÃ¨mes d'information.
 
-Je suis activement à la recherche d'une entreprise, sur Lyon, dans laquelle faire mon **stage** de fin d'études (10 semaines de stage minimum) à compter de **mi-juin 2016**.
-Le but étant de poursuivre notre collaboration pour une année d'**alternance** en contrat de professionnalisation en développement web (début **octobre 2016**). 
+Je suis actuellement en stage, en tant que DÃ©veloppeuse back-end Ruby on Rails, chez Permigo. Cette entreprise en pleine croissance, prÃ©pare actuellement la deuxiÃ¨me version de son application web, et l'enrichie avec de nouvelles fonctionnalitÃ©s comme son propre code en ligne. DÃ©veloppement auquel je prends part et sur lequel je ne cesse d'apprendre (dÃ©veloppement back-end, modÃ©lisation, Ã©criture de tests automatisÃ©s). 
 
-## Mes compétences ##
+** Mes CompÃ©tences Informatiques**
 
-#### Apprises à l'IUT ####
+Ruby on Rails - PHP (Objet et MVC) -  
+HTML5 - CSS3 - Javascript -
+Bootstrap - Slim - Rspec - Minitest -
+Git - Github / Gitlab
 
-Voici la liste des langages et compétences que j'aurai acquis à l'IUT avant de débuter mon stage :
+SQL/PLSQL (MySql - Oracle - Postgre) -
+ModÃ©lisation de Base de DonnÃ©es - UML -
+Informatique dÃ©cisionnelle -
 
-* 	 HTML5/CSS3,  
-* 	 PHP/MySQL/JS
-* 	 Modélisation de bases de données (sous Oracle) UML,
-*	 Business Intelligence
-* 	 GIT, Versionning de fichiers,
-* 	 C, JAVA, Android,
-* 	 Algorithmie, Réseaux
+MÃ©thodes Agiles (SCRUM)
 
-On ajoute à cela de la **gestion de projet**, et la conception d'un site de rencontres multiculturelles dans le cadre de mon *projet tuteuré* (qui viendra garnir petit à petit mon compte GitHub!). 
+C - JAVA - Android -
+Algorithmie - RÃ©seaux -
+SystÃ¨me dâ€™Exploitation -
+(Unix, Windows)
 
-#### Capacité d'autoformation ####
-
-Je profite du peu de temps libre que me laisse mon Dut pour approfondir mes connaissances par l'**autoformation**.
-
-Voici la liste des langages appris pour l'instant en autoformation
-
-* 	 HTML5/CSS3,
-* 	 PHP/MySQL,
-* 	 Ruby on Rails,
-* 	 GIT
-
-
-N'hésitez pas à me contacter pour plus d'informations. Je suis disponible pour tout entretien. 
+N'hÃ©sitez pas Ã  me contacter pour plus d'informations. Je suis disponible pour tout entretien. 
 
 Cordialement, 
 
