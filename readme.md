@@ -10,7 +10,7 @@ Suite à une année d'étude en informatique (DUT en année spéciale, condensé
 
 Je suis actuellement en stage, en tant que Développeuse back-end Ruby on Rails, chez Permigo. Cette entreprise en pleine croissance, prépare actuellement la deuxième version de son application web, et l'enrichie avec de nouvelles fonctionnalités comme son propre code en ligne. Développement auquel je prends part et sur lequel je ne cesse d'apprendre (développement back-end, modélisation, écriture de tests automatisés). 
 
-** Mes Compétences Informatiques**
+**Mes Compétences Informatiques**
 
 Ruby on Rails - PHP (Objet et MVC) -  
 HTML5 - CSS3 - Javascript -
